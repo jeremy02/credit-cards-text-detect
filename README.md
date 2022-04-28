@@ -1,6 +1,8 @@
-# credit-cards-detect-text
+# Credit Cards Detect Text/OCR
 
-credit-cards-detect-text is an axios-dependency module that detects text from  `credit card image` file and returns:
+
+###Description
+Credit Cards Detect Text/OCR is an axios-dependent module that detects text from  `credit card image` file and returns:
 * The Credit Card Number
 * The Credit Card Expiry Date 
 * The `full` detected text from the image (than you can use for your own further processing)
