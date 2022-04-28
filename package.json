@@ -1,0 +1,27 @@
+{
+  "name": "credit-cards-detect-text",
+  "version": "1.0.54",
+  "description": "Detect Text from Credit Cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "credit-cards",
+    "creditcards",
+    "credit-cards-ocr",
+    "creditcardsocr",
+    "credit-cards-detect-text",
+    "creditcardsdetecttext",
+    "google-vision",
+    "vision-api",
+    "vision-api-detect-text",
+    "vision-api-ocr"
+  ],
+  "author": "Jeremiah Thuku",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
